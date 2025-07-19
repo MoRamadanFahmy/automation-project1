@@ -11,4 +11,4 @@ This is a small Python automation project that:
 
 
 ## 🔗code
-- <a href="source.ipynb">Dashboard</a>
+- <a href="test_notepad.py">Code</a>
